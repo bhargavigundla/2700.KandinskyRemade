@@ -1,3 +1,9 @@
-# 2700.AFrameProject
-View my reproduction of Kandinsky's Concntric Circles vie the following link:
-https://stone-acute-question.glitch.me
+# A-Frame Project
+
+Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences.
+
+Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Quest, desktop, mobile platforms.
+
+Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://aframe.io/docs/0.8.0/introduction/vr-headsets-and-webvr-browsers.html)!
+
+View the project here! https://scythe-savory-confidence.glitch.me
